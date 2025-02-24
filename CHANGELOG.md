@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-02-24)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`479c50a`](https://github.com/stdlib-js/stdlib/commit/479c50acd9a8ddaf50fc670f9eb6fa85f8de0bfb) - **test:** fix type bug _(by Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-29)
